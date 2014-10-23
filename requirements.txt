@@ -1,0 +1,5 @@
+Click==3.3
+-e git+https://github.com/nigelsmall/py2neo@beta/2.0#egg=py2neo-2.0.beta
+Flask==0.10.1
+Flask-Login==0.2.11
+Flask-OAuthlib==0.7.0
