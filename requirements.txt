@@ -1,3 +1,4 @@
+gunicorn==19.0.0
 Click==3.3
 -e git+https://github.com/nigelsmall/py2neo@beta/2.0#egg=py2neo-2.0.beta
 Flask==0.10.1
